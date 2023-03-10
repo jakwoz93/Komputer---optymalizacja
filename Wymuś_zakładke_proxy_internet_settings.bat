@@ -1,0 +1,2 @@
+\\valor\SHARE\Programy_autoconfig_skrypty\_skrypty_bat\Wymus_zakladke_proxy_internet_settings.reg
+\\valor\SHARE\Programy_autoconfig_skrypty\_skrypty_bat\włacz_proxy.bat
